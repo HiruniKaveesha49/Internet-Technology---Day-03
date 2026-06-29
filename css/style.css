@@ -1,6 +1,37 @@
-h1{
-            background-color: rgb(23, 203, 38); 
-            color: white; 
-            text-align: center;  
-            border-radius: 6%;
-        }
+.bg-red-h1 {
+    background-color: rgb(190, 38, 38);
+    color: white;
+    text-align: center;
+    border-radius: 6%;
+}
+
+.c {
+    background-color: rgb(16, 75, 202);
+    color: white;
+    text-align: center;
+    border-radius: 6%;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin: 10px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
