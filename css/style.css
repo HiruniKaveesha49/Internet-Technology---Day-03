@@ -5,14 +5,35 @@
     border-radius: 6%;
 }
 
-.c {
+.bg-blue-h1 {
     background-color: rgb(16, 75, 202);
     color: white;
     text-align: center;
     border-radius: 6%;
 }
 
-p {
+.first {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin: 10px 0;
+}
+
+#first {
+    font-size: 20px;
+    line-height: 1.6;
+    color: #333;
+    margin: 10px 0;
+}s
+
+.second {
+    font-size: 30px;
+    line-height: 1.5;
+    color: #0f3ae3;
+    margin: 10px 0;
+}
+
+.fixed-width {
     font-size: 18px;
     line-height: 1.6;
     color: #333;
